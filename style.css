@@ -29,7 +29,7 @@ header {
 
 article {
   margin: 1em auto;
-  width: 600px;
+  max-width: 600px;
 }
 
 .counter {
